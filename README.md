@@ -1,6 +1,6 @@
 # Speedle-Bike-Store-Sales-Insight
 
-![Speedle Logo](dashboard-sales.png) <!-- Update with actual URL -->
+![Speedle Logo]((https://github.com/Darshanamishra/Image/blob/main/logo1.png)) <!-- Update with actual URL -->
 
 ## Overview
 
