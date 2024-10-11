@@ -1,6 +1,6 @@
 # Speedle-Bike-Store-Sales-Insight
 
-![Speedle Logo](https://raw.githubusercontent.com/Darshanamishra/Image/main/logo1.png) <!-- Update with the correct path -->
+<img src="https://raw.githubusercontent.com/Darshanamishra/Image/main/logo1.png" alt="Speedle Logo" width="200" /> <!-- Adjust the width as needed -->
 
 ## Overview
 
