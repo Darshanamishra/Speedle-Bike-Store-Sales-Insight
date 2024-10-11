@@ -1,11 +1,10 @@
 # Speedle-Bike-Store-Sales-Insight
-This project involved creating an interactive sales dashboard for Speedle Bikes using Power BI, leveraging a robust data pipeline and advanced analytics.
 
 ![Speedle Logo](path/to/speedle-logo.png) <!-- Update the path to your logo -->
 
 ## Overview
 
-The **Speedle Project** is designed to provide comprehensive insights into sales performance across our bike store chain. By leveraging advanced analytics, this project aims to enhance operational efficiency and support data-driven decision-making.
+The **Speedle Project** is designed to provide comprehensive insights into sales performance across our bike store chain. This project aims to enhance operational efficiency and support data-driven decision-making by leveraging advanced analytics.
 
 ## Features
 
@@ -14,3 +13,11 @@ The **Speedle Project** is designed to provide comprehensive insights into sales
 - **Inventory Optimization**: Analyzes stock levels to improve inventory management and product availability.
 - **Employee Performance**: Evaluates staff contributions to sales and order fulfillment.
 - **Discount Impact Analysis**: Assesses how discounting strategies affect sales volume and revenue.
+
+## Dashboard Preview
+
+Here is a preview of the Speedle Sales Insight Dashboard:
+
+![Dashboard Screenshot](path/to/your/dashboard-screenshot.png) <!-- Update the path to your screenshot -->
+
+You can access the live dashboard here: [Speedle Sales Insight Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDFiYzY0MGUtMWM5Mi00OWNlLTg5OTQtNzAzMTA3NjQ1ODVlIiwidCI6IjliMzQwYjg1LWNiZGUtNDY4MS1hNmQwLTBlMTI2MDk0MzYzMyJ9).
