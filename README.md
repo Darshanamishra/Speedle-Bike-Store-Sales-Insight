@@ -1,6 +1,6 @@
 # Speedle-Bike-Store-Sales-Insight
 
-![Speedle Logo](Darshanamishra/Images/blob/main/logo1.png) <!-- Update the path to your logo -->
+![Speedle Logo](Darshanamishra\Images/blob\main\logo1.png) <!-- Update the path to your logo -->
 
 ## Overview
 
