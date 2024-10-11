@@ -1,6 +1,6 @@
 # Speedle-Bike-Store-Sales-Insight
 
-![Speedle Logo](Images/logo1.png) <!-- Corrected path -->
+![Speedle Logo](dashboard-sales.png) <!-- Update with actual URL -->
 
 ## Overview
 
@@ -18,6 +18,6 @@ The **Speedle Project** is designed to provide comprehensive insights into sales
 
 Here is a preview of the Speedle Sales Insight Dashboard:
 
-![Dashboard Screenshot](Images/dashboard-sales.png) <!-- Corrected path -->
+![Dashboard Screenshot](https://raw.githubusercontent.com/username/repository/branch/Images/dashboard-sales.png) <!-- Update with actual URL -->
 
 You can access the live dashboard here: [Speedle Sales Insight Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDFiYzY0MGUtMWM5Mi00OWNlLTg5OTQtNzAzMTA3NjQ1ODVlIiwidCI6IjliMzQwYjg1LWNiZGUtNDY4MS1hNmQwLTBlMTI2MDk0MzYzMyJ9).
