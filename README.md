@@ -1,4 +1,4 @@
-# Speedle-Bike-Store-Sales-Insight
+# Speedle Bike Store Sales Insight
 
 <img src="https://raw.githubusercontent.com/Darshanamishra/Images/main/logo1.png" alt="Speedle Logo" width="200" /> <!-- Adjust the width as needed -->
 
