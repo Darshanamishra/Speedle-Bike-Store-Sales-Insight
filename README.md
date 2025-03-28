@@ -20,4 +20,4 @@ Here is a preview of the Speedle Sales Insight Dashboard:
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/Darshanamishra/Images/main/dashboard-sales.png) <!-- Update with the correct path -->
 
-You can access the live dashboard here: [Speedle Sales Insight Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDFiYzY0MGUtMWM5Mi00OWNlLTg5OTQtNzAzMTA3NjQ1ODVlIiwidCI6IjliMzQwYjg1LWNiZGUtNDY4MS1hNmQwLTBlMTI2MDk0MzYzMyJ9).
+You can access the live dashboard here: [Speedle Sales Insight Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjU1ZTJlMDYtZGI4MC00YWY1LTg2ZmYtODk2YjE5OGI2YzYxIiwidCI6ImViZTAyOTY0LTUwZWUtNGI3MS1iYjA3LWYyYjQ2YWZlN2QxMiJ9).
